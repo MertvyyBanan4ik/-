@@ -1,0 +1,20 @@
+D:\Программы\MW 2021\bin\Debug\MW 2021.exe.config
+D:\Программы\MW 2021\bin\Debug\MW 2021.exe
+D:\Программы\MW 2021\bin\Debug\MW 2021.pdb
+D:\Программы\MW 2021\obj\Debug\MW 2021.csprojAssemblyReference.cache
+D:\Программы\MW 2021\obj\Debug\MW_2021.Form1.resources
+D:\Программы\MW 2021\obj\Debug\MW_2021.Properties.Resources.resources
+D:\Программы\MW 2021\obj\Debug\MW 2021.csproj.GenerateResource.cache
+D:\Программы\MW 2021\obj\Debug\MW 2021.csproj.CoreCompileInputs.cache
+D:\Программы\MW 2021\obj\Debug\MW 2021.exe
+D:\Программы\MW 2021\obj\Debug\MW 2021.pdb
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\bin\Debug\MW 2021.exe.config
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\bin\Debug\MW 2021.exe
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\bin\Debug\MW 2021.pdb
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\obj\Debug\MW 2021.csprojAssemblyReference.cache
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\obj\Debug\MW_2021.Form1.resources
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\obj\Debug\MW_2021.Properties.Resources.resources
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\obj\Debug\MW 2021.csproj.GenerateResource.cache
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\obj\Debug\MW 2021.csproj.CoreCompileInputs.cache
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\obj\Debug\MW 2021.exe
+C:\Users\артас\Desktop\Новая папка (2)\MW-main\MW 2021\obj\Debug\MW 2021.pdb
